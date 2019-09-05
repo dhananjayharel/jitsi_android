@@ -1,8 +1,10 @@
-package net.jitsi.sdktest;
+package com.programmr.englishapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+
+import com.programmr.englishapp.R;
 
 import org.jitsi.meet.sdk.JitsiMeet;
 import org.jitsi.meet.sdk.JitsiMeetActivity;
